@@ -465,13 +465,7 @@ def interactionLogic3(Player, GameEnemy):
                 break
             
                 
-                
             
-                
-           
-        
-        
-                
     
      
 def test():
